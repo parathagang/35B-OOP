@@ -1,3 +1,3 @@
 # 35B-OOP
 Weekly task of Java/OOP
--Week 1 Taak, April 14
+-Week 1 Task, April 14
